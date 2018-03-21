@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>Data.qml</file>
+        <file>Settings.qml</file>
+        <file>PowerSlider.qml</file>
+        <file>Model.qml</file>
+        <file>IncDecButton.qml</file>
+    </qresource>
+</RCC>
